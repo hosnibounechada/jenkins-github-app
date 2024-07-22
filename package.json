@@ -1,0 +1,12 @@
+{
+  "name": "jenkins-github-app",
+  "version": "1.0.0",
+  "description": "App to test github with jenkins pipeline",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
